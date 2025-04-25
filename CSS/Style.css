@@ -2,12 +2,14 @@
     background: #fff;
     width: 100%;
 }
+a{
+    text-decoration: none;
+}
 li{
     float: left;
     width: 25%;
     list-style: none;
     text-align: center;
-    text-decoration: none;
     font-family: "Hiragino Sans",'ヒラギノ角ゴシック';
     color: black;
 }
