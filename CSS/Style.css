@@ -23,7 +23,7 @@
     font-family:"Hiragino Sans",'ヒラギノ角ゴシック';
     font-size:15px;
     }
-li{
+.hbut{
     float:left;
     list-style:none;
     text-align:center; text-decoration:none;
