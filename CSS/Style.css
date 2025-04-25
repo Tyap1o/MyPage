@@ -4,7 +4,7 @@ header{
 }
 .a{
     text-decoration: none;
-    color: black;
+    color: inherit;
 }
 li{
     float: left;
@@ -12,6 +12,7 @@ li{
     list-style: none;
     text-align: center;
     font-family: "Hiragino Sans",'ヒラギノ角ゴシック';
+    color: #000000;
 }
 .tytle{
     color:blue;
