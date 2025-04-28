@@ -1,4 +1,5 @@
 .header{
+    padding: 0 0px;
     height: 70px;
     width: 100%;
     display: flex;
@@ -14,6 +15,6 @@
     background-color: #007BFF;
     color: white;
     text-align: center;
-    font-size: 40px;
+    font-size: 50%;
     font-family: "Hiragino Sans",'ヒラギノ角ゴシック';
 }
