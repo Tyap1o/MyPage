@@ -1,6 +1,6 @@
 .header{
-    padding: 0px;
-    margin: 0px;
+    padding: 0 0px;
+    margin: 0 0px;
     height: 70px;
     width: 100%;
     display: flex;
@@ -10,8 +10,8 @@
     background-color: #fff;
 }
 .button{
-    padding: 0px;
-    margin: 0px;
+    padding: 0 0px;
+    margin: 0 0px;
     text-decoration: none;
     width: 25%;
     height: 100%;
