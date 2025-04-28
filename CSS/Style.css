@@ -6,10 +6,10 @@
 }
 .button{
     text-decoration: none;
-    padding: 10px 15px;
+    width: 25%;
     background-color: #007BFF;
     color: white;
-    border-radius: 5px;
+    text-align: center;
     font-size: 14px;
     font-family: "Hiragino Sans",'ヒラギノ角ゴシック';
 }
