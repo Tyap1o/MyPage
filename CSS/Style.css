@@ -11,14 +11,12 @@ a{
 }
 .button{
     text-decoration: none;
-    color: inherit;
-    float: left;
-    width: 25%;
-    height: 500px;
-    list-style: none;
-    text-align: center;
+    padding: 10px 15px;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 5px;
+    font-size: 14px;
     font-family: "Hiragino Sans",'ヒラギノ角ゴシック';
-    color: #000000;
 }
 .tytle{
     color:blue;
