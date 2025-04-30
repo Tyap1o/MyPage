@@ -26,6 +26,9 @@
     font-size: 150%;
     font-family: "Hiragino Sans",'ヒラギノ角ゴシック';
 }
+.scratch{
+    background-img: url(scratch-logo.svg);
+}
 
 body{
     background-color: #ffffff;
