@@ -28,6 +28,7 @@
 }
 .scratch{
     background-img: url(scratch-logo.svg);
+    background-size: 50%;
 }
 
 body{
