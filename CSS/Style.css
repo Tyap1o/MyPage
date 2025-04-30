@@ -11,7 +11,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    background-color: #fff;
+    background-color: #000;
 }
 .button{
     padding: 0;
@@ -20,7 +20,7 @@
     width: 25%;
     height: 100%;
     line-height: 60px;
-    background-color: #ffffff;
+    background-color: #000000;
     color: #000000;
     text-align: center;
     font-size: 150%;
