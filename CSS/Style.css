@@ -20,9 +20,13 @@
     width: 25%;
     height: 100%;
     line-height: 60px;
-    background-color: #007BFF;
+    background-color: #fff;
     color: white;
     text-align: center;
     font-size: 150%;
     font-family: "Hiragino Sans",'ヒラギノ角ゴシック';
+}
+
+body{
+    background-color: #DAF3FF;
 }
